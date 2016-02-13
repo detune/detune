@@ -1,4 +1,4 @@
-# ![logo](http://detune.org/images/dchat_logo.png)
+# ![logo](http://i.imgur.com/sHzv4lM.png)
 **Detune** is a clean, modern, asynchronous, feature-rich pseudo-reddit discussion software built from the ground up in **Golang**.
 #### Design Goals
 - **Asynchronous Design**. User interface powered by VueJS, a ~24kb (min + gzip) JavaScript framework to make the application more performant.
