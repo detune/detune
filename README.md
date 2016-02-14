@@ -16,4 +16,4 @@ Yes, once there's a code.
 ####Contributors
 
 - [Rune](mailto:hello@detune.org)
-- Ettudis
+- [Ettudis](mailto:rkniuet@ambriel.net)
