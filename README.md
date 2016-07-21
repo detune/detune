@@ -2,7 +2,7 @@
 **Detune** is a clean, modern, asynchronous, feature-rich pseudo-reddit discussion software built from the ground up in **Golang**.
 #### Design Goals
 - **Asynchronous Design**. User interface powered by VueJS, a ~24kb (min + gzip) JavaScript framework to make the application more performant.
-- **VelocityJS**. The best animations engine to make transitions smoother transitions compared to jQuery & CSS.
+- **Greensock**. The best animations engine to make transitions smoother transitions compared to jQuery & CSS.
 - **Jade** simply simplifying the simplified.
 
 #### Where is the Code?
